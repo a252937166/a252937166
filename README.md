@@ -3,7 +3,7 @@
     <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="assets/identity-mobile-dark.svg">
     <source media="(max-width: 640px)" srcset="assets/identity-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="assets/identity-dark.svg">
-    <img src="assets/identity-light.svg" alt="Mr.ooo · AI 智能体开发 · axiqo.xyz" width="560" align="top">
+    <img src="assets/identity-light.svg" alt="Mr.ooo · AI 智能体开发 · 1 个冠军项目 / 2 个获奖项目 / 3 个精选项目 · axiqo.xyz" width="560" align="top">
   </picture>
 </a><br>
 <a href="https://github.com/a252937166/faktura-casper">
