@@ -10,7 +10,7 @@ import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = ROOT / 'assets'
-UI = ASSETS / 'ui-v3'
+UI = ASSETS / 'ui-v4'
 UI.mkdir(exist_ok=True)
 DATA = json.loads((ROOT / 'data/profile.json').read_text())
 FONT = '-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif'
@@ -81,22 +81,22 @@ def project(p, c):
     brand_width = {'casper':72,'croo':92,'claude':84}[p['brand']]
     body = [rect(.5,4.5,w-1,155,c['surface'],c['line'],6),brand(p['brand'],w-brand_width-18,16)]
     body += [f'<g transform="translate(18 21)" fill="none" stroke="{c["muted"]}" stroke-width="1.2"><rect width="12" height="14" rx="2"/><path d="M3 0V14M6 4H9M6 7H9"/></g>']
-    body += [text(39,32,p['name'],16,c['accent'],600)]
-    body += [text(18,63,p['lines'][0],14,c['muted']),text(18,83,p['lines'][1],14,c['muted'])]
+    body += [text(39,32,p['name'],14,c['accent'],600)]
+    body += [text(18,63,p['lines'][0],12,c['muted']),text(18,83,p['lines'][1],12,c['muted'])]
     badge_color = c[p['color']]
     badge_bg = c['gold_bg'] if p['color']=='gold' else c['blue_bg']
-    body += [rect(18,101,108,22,badge_bg,radius=5),glyph(p['icon'],32,112,badge_color,.5),text(47,116,p['award'],11.5,badge_color,500)]
-    body += [text(138,116,p['event'],11.5,c['muted']),text(18,147,p['stack'],12.5,c['muted'])]
+    body += [rect(18,101,108,22,badge_bg,radius=5),glyph(p['icon'],32,112,badge_color,.5),text(47,116,p['award'],12,badge_color,500)]
+    body += [text(138,116,p['event'],12,c['muted']),text(18,147,p['stack'],12,c['muted'])]
     return svg(body,w,h,p['name'],' '.join(p['lines'])+' '+p['event']+'. '+p['award']+'. '+p['stack']+'. Opens the project repository.')
 
 
 def overview(c):
     w,h=410,164
-    body=[rect(.5,4.5,w-1,155,c['surface'],c['line'],6),text(18,32,'GitHub overview',16,c['fg'],600)]
+    body=[rect(.5,4.5,w-1,155,c['surface'],c['line'],6),text(18,32,'GitHub overview',14,c['fg'],600)]
     for i,(value,label) in enumerate(metric_items()):
         x=18+(i%2)*196
         y=69+(i//2)*58
-        body += [text(x,y,f'{value:,}',20,c['fg'],600),text(x,y+18,label,12,c['muted'])]
+        body += [text(x,y,f'{value:,}',18,c['fg'],600),text(x,y+18,label,12,c['muted'])]
     return svg(body,w,h,'GitHub overview','. '.join(f'{v:,} {label}' for v,label in metric_items())+'. Repository stars count owned public non-fork repositories. Contributions cover the rolling year, with private activity excluded. Snapshot '+DATA['fetched_at'])
 
 
@@ -144,16 +144,16 @@ def language_plot(c, x, y):
         color=row.get('color') or c['accent']
         body += [f'<circle cx="{x+47}" cy="{y+51}" r="{radius}" fill="none" stroke="{color}" stroke-width="13" stroke-dasharray="{length} {circumference-length}" stroke-dashoffset="{-offset}" transform="rotate(-90 {x+47} {y+51})"/>']
         offset += length
-    body += [text(x+47,y+48,str(len(DATA['languages'])),20,c['fg'],600,'middle'),text(x+47,y+65,'languages',11,c['muted'],anchor='middle')]
+    body += [text(x+47,y+48,str(len(DATA['languages'])),18,c['fg'],600,'middle'),text(x+47,y+65,'languages',11,c['muted'],anchor='middle')]
     for i,row in enumerate(rows):
         yy=y+7+i*19
-        body += [rect(x+115,yy-8,7,7,row.get('color') or c['accent'],radius=2),text(x+129,yy,row['name'],12.5,c['fg']),text(x+343,yy,f'{row["share"]*100:.1f}%',12.5,c['muted'],anchor='end')]
+        body += [rect(x+115,yy-8,7,7,row.get('color') or c['accent'],radius=2),text(x+129,yy,row['name'],12,c['fg']),text(x+343,yy,f'{row["share"]*100:.1f}%',12,c['muted'],anchor='end')]
     return body
 
 
 def activity_card(c):
     w,h=410,206
-    body=[rect(.5,4.5,w-1,197,c['surface'],c['line'],6),text(18,32,'Contribution activity',16,c['fg'],600),text(18,54,'Last 16 weeks · current week is partial',12,c['muted'])]
+    body=[rect(.5,4.5,w-1,197,c['surface'],c['line'],6),text(18,32,'Contribution activity',14,c['fg'],600),text(18,54,'Last 16 weeks · current week is partial',12,c['muted'])]
     body += activity_plot(c,46,74,340,106)
     weekly='. '.join(f'{row["week_start"]}: {row["contributions"]} contributions' for row in DATA['activity']['weekly_last_16'])
     return svg(body,w,h,'Public GitHub contribution activity',weekly+'. Snapshot '+DATA['fetched_at'])
@@ -161,7 +161,7 @@ def activity_card(c):
 
 def language_card(c):
     w,h=410,206
-    body=[rect(.5,4.5,w-1,197,c['surface'],c['line'],6),text(18,32,'Repository languages',16,c['fg'],600)]
+    body=[rect(.5,4.5,w-1,197,c['surface'],c['line'],6),text(18,32,'Repository languages',14,c['fg'],600)]
     body += language_plot(c,18,60)
     body += [text(18,189,'Code bytes in public non-fork repositories',11.5,c['muted'])]
     langs=', '.join(f'{row["name"]} {row["share"]*100:.1f} percent' for row in top_languages())
