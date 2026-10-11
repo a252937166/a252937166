@@ -1,0 +1,43 @@
+name: Refresh public profile statistics
+
+on:
+  schedule:
+    - cron: '20 10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats-${{ github.repository }}
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Set up Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: '3.13'
+
+      - name: Fetch public counts and render cards
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/update_stats.py --username "${{ github.repository_owner }}"
+
+      - name: Commit changed statistics
+        run: |
+          git add -- assets/activity*.svg data/public-stats.json
+          if git diff --cached --quiet; then
+            echo "Public profile statistics are unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh public profile statistics"
+          git push
