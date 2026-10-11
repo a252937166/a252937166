@@ -20,7 +20,7 @@
 <text x="632" y="154" font-size="17" fill="#5E6886" font-weight="400" text-anchor="start">Followers</text>
 <rect x="896" y="76" width="272" height="100" rx="22" fill="#FFFFFF" stroke="#DDE3F3"/>
 <rect x="920" y="98" width="4" height="32" rx="2" fill="#7162C9"/>
-<text x="938" y="129" font-size="40" fill="#222943" font-weight="650" text-anchor="start">1,598</text>
+<text x="938" y="129" font-size="40" fill="#222943" font-weight="650" text-anchor="start">1,599</text>
 <text x="920" y="154" font-size="17" fill="#5E6886" font-weight="400" text-anchor="start">Last-year contributions</text>
 <rect x="32" y="192" width="704" height="156" rx="22" fill="#FFFFFF" stroke="#DDE3F3"/>
 <text x="56" y="226" font-size="22" fill="#222943" font-weight="600" text-anchor="start">Weekly contributions</text>
@@ -58,8 +58,8 @@
 <rect x="616" y="296.96" width="32" height="14.04" rx="5" fill="#7162C9" opacity="0.74"><title>2026-10-04: 53 contributions</title></rect>
 <text x="632" y="288.963" font-size="16" fill="#5E6886" font-weight="400" text-anchor="middle">53</text>
 <text x="632" y="333" font-size="16" fill="#5E6886" font-weight="400" text-anchor="middle">10/04</text>
-<rect x="671" y="307.03" width="32" height="3.97" rx="5" fill="#247EAA" opacity="1"><title>2026-10-11: 15 contributions (partial week)</title></rect>
-<text x="687" y="299.027" font-size="16" fill="#5E6886" font-weight="400" text-anchor="middle">15</text>
+<rect x="671" y="306.76" width="32" height="4.24" rx="5" fill="#247EAA" opacity="1"><title>2026-10-11: 16 contributions (partial week)</title></rect>
+<text x="687" y="298.763" font-size="16" fill="#5E6886" font-weight="400" text-anchor="middle">16</text>
 <text x="687" y="333" font-size="16" fill="#5E6886" font-weight="400" text-anchor="middle">10/11</text>
 <rect x="752" y="192" width="416" height="156" rx="22" fill="#FFFFFF" stroke="#DDE3F3"/>
 <text x="776" y="226" font-size="22" fill="#222943" font-weight="600" text-anchor="start">Primary language</text>
