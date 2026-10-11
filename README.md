@@ -1,26 +1,20 @@
-<picture>
-  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="assets/identity-mobile-dark.svg">
-  <source media="(max-width: 640px)" srcset="assets/identity-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/identity-dark.svg">
-  <img src="assets/identity-light.svg" alt="Mr.ooo — AI tools and agent engineering. I build tools for AI agents, persistent memory, on-chain services, and code-driven video." width="830">
-</picture>
+### Mr.ooo
+
+I build tools for AI agents, from local development workflows to persistent memory. I also experiment with on-chain services and code-driven video.
+
+<sub>Python · TypeScript · React · Rust · SQLite · MCP</sub>
 
 [Website](https://www.axiqo.xyz/) &nbsp; / &nbsp; [Browse repositories](https://github.com/a252937166?tab=repositories)
 
-### Selected projects
+### Projects & stats
 
-<a href="https://github.com/a252937166/faktura-casper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/faktura-dark.svg"><img src="assets/faktura-light.svg" alt="Faktura-Casper — AI invoice financing with on-chain risk limits. Champion, Casper Agentic Buildathon 2026." width="264" align="top"></picture></a> &nbsp; <a href="https://github.com/a252937166/croocred"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/croocred-dark.svg"><img src="assets/croocred-light.svg" alt="CrooCred — Tests paid AI agents and publishes reports with transaction receipts. 8th place, CROO Agent Hackathon." width="264" align="top"></picture></a> &nbsp; <a href="https://github.com/a252937166/claude-video-studio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/video-dark.svg"><img src="assets/video-light.svg" alt="Claude Video Studio — A Claude Code skill for animations and short videos, built with Python, HyperFrames and FFmpeg." width="264" align="top"></picture></a>
+<a href="https://github.com/a252937166/faktura-casper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui-v3/faktura-dark.svg"><img src="assets/ui-v3/faktura-light.svg" alt="Faktura-Casper — AI invoice financing on Casper with contract-enforced risk limits. Champion, Casper Agentic Buildathon 2026." width="410" align="top"></picture></a> &nbsp; <a href="https://github.com/a252937166/croocred"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui-v3/croocred-dark.svg"><img src="assets/ui-v3/croocred-light.svg" alt="CrooCred — Tests paid AI agents and publishes reports with transaction receipts. 8th place, CROO Agent Hackathon." width="410" align="top"></picture></a><br><a href="https://github.com/a252937166/claude-video-studio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui-v3/video-dark.svg"><img src="assets/ui-v3/video-light.svg" alt="claude-video-studio — A Claude Code skill for animations and short videos, rendered with HyperFrames." width="410" align="top"></picture></a> &nbsp; <a href="https://github.com/a252937166?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui-v3/overview-dark.svg"><img src="assets/ui-v3/overview-light.svg" alt="GitHub overview: public repositories, repository stars, followers, and public contributions over the past year." width="410" align="top"></picture></a>
 
 <sub>Award announcements: <a href="https://www.linkedin.com/posts/casper-association_meet-the-winners-of-the-casper-agentic-buildathon-activity-7508434074051457024-yBSr">Casper Association</a> · <a href="https://x.com/CROONetwork/status/2080195168687526173">CROO Network</a></sub>
 
 ### Code & activity
 
-<picture>
-  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="assets/stats-mobile-dark.svg">
-  <source media="(max-width: 640px)" srcset="assets/stats-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img src="assets/stats-light.svg" alt="Weekly public GitHub contributions and language composition across owned public non-fork repositories." width="830">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui-v3/activity-dark.svg"><img src="assets/ui-v3/activity-light.svg" alt="Weekly public GitHub contribution activity over the last 16 weeks." width="410" align="top"></picture> &nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui-v3/languages-dark.svg"><img src="assets/ui-v3/languages-light.svg" alt="Language composition by code bytes across owned public non-fork repositories." width="410" align="top"></picture>
 
 <sub><!-- snapshot-date -->Updated 2026-10-11<!-- /snapshot-date --> · Scheduled to refresh daily</sub>
 
