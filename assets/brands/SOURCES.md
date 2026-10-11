@@ -7,3 +7,5 @@ These logos identify the competition platform or tool used by a project.
 - `claude.svg`: original “Claude Spark - Clay.svg” from [Anthropic's official press kit](https://anthropic.com/press-kit), under `Anthropic media resources/Anthropic logos/Claude logos/3 Claude Spark/SVG/`.
 
 Downloaded on 2026-10-11. Original artwork and colors retained. The builder only places and scales these assets.
+
+The profile avatar in `../avatar.jpg` is the account's public [GitHub avatar](https://avatars.githubusercontent.com/u/16303294?v=4), placed without changing its pixels.

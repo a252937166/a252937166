@@ -1,0 +1,3460 @@
+{
+  "fetched_at": "2026-10-11T17:13:49Z",
+  "fetch_started_at": "2026-10-11T17:13:34Z",
+  "profile": {
+    "login": "a252937166",
+    "name": "Mr.ooo",
+    "html_url": "https://github.com/a252937166",
+    "avatar_url": "https://avatars.githubusercontent.com/u/16303294?v=4",
+    "public_repos": 104,
+    "followers": 68,
+    "following": 15,
+    "created_at": "2015-12-15T09:47:58Z",
+    "updated_at": "2026-10-11T11:11:29Z"
+  },
+  "metrics": {
+    "public_repositories": 104,
+    "owned_public_nonfork_repositories": 62,
+    "archived_in_scope": 0,
+    "received_stars": 92,
+    "received_forks": 69,
+    "followers": 68,
+    "public_contributions_last_year": 1603,
+    "language_bytes": 37678392
+  },
+  "languages": [
+    {
+      "name": "Python",
+      "bytes": 13483442,
+      "percent": 35.7856,
+      "color": "#3572A5"
+    },
+    {
+      "name": "TypeScript",
+      "bytes": 7451075,
+      "percent": 19.7755,
+      "color": "#3178c6"
+    },
+    {
+      "name": "Java",
+      "bytes": 6809981,
+      "percent": 18.074,
+      "color": "#b07219"
+    },
+    {
+      "name": "HTML",
+      "bytes": 3276082,
+      "percent": 8.6949,
+      "color": "#e34c26"
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 2782320,
+      "percent": 7.3844,
+      "color": "#f1e05a"
+    },
+    {
+      "name": "CSS",
+      "bytes": 2094425,
+      "percent": 5.5587,
+      "color": "#663399"
+    },
+    {
+      "name": "Vue",
+      "bytes": 1053870,
+      "percent": 2.797,
+      "color": "#41b883"
+    },
+    {
+      "name": "PLSQL",
+      "bytes": 290261,
+      "percent": 0.7704,
+      "color": "#dad8d8"
+    },
+    {
+      "name": "Shell",
+      "bytes": 174919,
+      "percent": 0.4642,
+      "color": "#89e051"
+    },
+    {
+      "name": "Solidity",
+      "bytes": 154044,
+      "percent": 0.4088,
+      "color": "#AA6746"
+    },
+    {
+      "name": "Rust",
+      "bytes": 50468,
+      "percent": 0.1339,
+      "color": "#dea584"
+    },
+    {
+      "name": "PHP",
+      "bytes": 16303,
+      "percent": 0.0433,
+      "color": "#4F5D95"
+    },
+    {
+      "name": "COBOL",
+      "bytes": 14342,
+      "percent": 0.0381,
+      "color": null
+    },
+    {
+      "name": "PostScript",
+      "bytes": 12552,
+      "percent": 0.0333,
+      "color": "#da291c"
+    },
+    {
+      "name": "Makefile",
+      "bytes": 6552,
+      "percent": 0.0174,
+      "color": "#427819"
+    },
+    {
+      "name": "Dockerfile",
+      "bytes": 2516,
+      "percent": 0.0067,
+      "color": "#384d54"
+    },
+    {
+      "name": "Kotlin",
+      "bytes": 1371,
+      "percent": 0.0036,
+      "color": "#A97BFF"
+    },
+    {
+      "name": "PLpgSQL",
+      "bytes": 890,
+      "percent": 0.0024,
+      "color": "#336790"
+    },
+    {
+      "name": "Ruby",
+      "bytes": 832,
+      "percent": 0.0022,
+      "color": "#701516"
+    },
+    {
+      "name": "PowerShell",
+      "bytes": 820,
+      "percent": 0.0022,
+      "color": "#012456"
+    },
+    {
+      "name": "FreeMarker",
+      "bytes": 782,
+      "percent": 0.0021,
+      "color": "#0050b2"
+    },
+    {
+      "name": "Groovy",
+      "bytes": 545,
+      "percent": 0.0014,
+      "color": "#4298b8"
+    }
+  ],
+  "activity": {
+    "started_at": "2025-10-05T04:00:00Z",
+    "ended_at": "2026-10-12T03:59:59Z",
+    "public_only_verified": true,
+    "restricted_contributions": 0,
+    "privacy_counts": {
+      "private_commit_repositories": 0,
+      "private_issueContributions": 0,
+      "private_pullRequestContributions": 0,
+      "private_pullRequestReviewContributions": 0,
+      "private_repositoryContributions": 0
+    },
+    "contribution_types": {
+      "totalCommitContributions": 1537,
+      "totalIssueContributions": 17,
+      "totalPullRequestContributions": 22,
+      "totalPullRequestReviewContributions": 3,
+      "totalRepositoryContributions": 24
+    },
+    "weekly_last_16": [
+      {
+        "week_start": "2026-06-28",
+        "week_end": "2026-07-04",
+        "contributions": 90,
+        "days_in_range": 7,
+        "partial": false
+      },
+      {
+        "week_start": "2026-07-05",
+        "week_end": "2026-07-11",
+        "contributions": 168,
+        "days_in_range": 7,
+        "partial": false
+      },
+      {
+        "week_start": "2026-07-12",
+        "week_end": "2026-07-18",
+        "contributions": 168,
+        "days_in_range": 7,
+        "partial": false
+      },
+      {
+        "week_start": "2026-07-19",
+        "week_end": "2026-07-25",
+        "contributions": 286,
+        "days_in_range": 7,
+        "partial": false
+      },
+      {
+        "week_start": "2026-07-26",
+        "week_end": "2026-08-01",
+        "contributions": 72,
+        "days_in_range": 7,
+        "partial": false
+      },
+      {
+        "week_start": "2026-08-02",
+        "week_end": "2026-08-08",
+        "contributions": 168,
+        "days_in_range": 7,
+        "partial": false
+      },
+      {
+        "week_start": "2026-08-09",
+        "week_end": "2026-08-15",
+        "contributions": 219,
+        "days_in_range": 7,
+        "partial": false
+      },
+      {
+        "week_start": "2026-08-16",
+        "week_end": "2026-08-22",
+        "contributions": 39,
+        "days_in_range": 7,
+        "partial": false
+      },
+      {
+        "week_start": "2026-08-23",
+        "week_end": "2026-08-29",
+        "contributions": 72,
+        "days_in_range": 7,
+        "partial": false
+      },
+      {
+        "week_start": "2026-08-30",
+        "week_end": "2026-09-05",
+        "contributions": 76,
+        "days_in_range": 7,
+        "partial": false
+      },
+      {
+        "week_start": "2026-09-06",
+        "week_end": "2026-09-12",
+        "contributions": 60,
+        "days_in_range": 7,
+        "partial": false
+      },
+      {
+        "week_start": "2026-09-13",
+        "week_end": "2026-09-19",
+        "contributions": 9,
+        "days_in_range": 7,
+        "partial": false
+      },
+      {
+        "week_start": "2026-09-20",
+        "week_end": "2026-09-26",
+        "contributions": 17,
+        "days_in_range": 7,
+        "partial": false
+      },
+      {
+        "week_start": "2026-09-27",
+        "week_end": "2026-10-03",
+        "contributions": 83,
+        "days_in_range": 7,
+        "partial": false
+      },
+      {
+        "week_start": "2026-10-04",
+        "week_end": "2026-10-10",
+        "contributions": 53,
+        "days_in_range": 7,
+        "partial": false
+      },
+      {
+        "week_start": "2026-10-11",
+        "week_end": "2026-10-17",
+        "contributions": 20,
+        "days_in_range": 1,
+        "partial": true
+      }
+    ],
+    "calendar": {
+      "totalContributions": 1603,
+      "weeks": [
+        {
+          "firstDay": "2025-10-12",
+          "contributionDays": [
+            {
+              "date": "2025-10-12",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-10-13",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-10-14",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-10-15",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-10-16",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-10-17",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-10-18",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2025-10-19",
+          "contributionDays": [
+            {
+              "date": "2025-10-19",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-10-20",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-10-21",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-10-22",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-10-23",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-10-24",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-10-25",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2025-10-26",
+          "contributionDays": [
+            {
+              "date": "2025-10-26",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-10-27",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-10-28",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-10-29",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-10-30",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-10-31",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-01",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2025-11-02",
+          "contributionDays": [
+            {
+              "date": "2025-11-02",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-03",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-04",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-05",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-06",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-07",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-08",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2025-11-09",
+          "contributionDays": [
+            {
+              "date": "2025-11-09",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-10",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-11",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-12",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-13",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-14",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-15",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2025-11-16",
+          "contributionDays": [
+            {
+              "date": "2025-11-16",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-17",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-18",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-19",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-20",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-21",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-22",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2025-11-23",
+          "contributionDays": [
+            {
+              "date": "2025-11-23",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-24",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-25",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-26",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-27",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-28",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-11-29",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2025-11-30",
+          "contributionDays": [
+            {
+              "date": "2025-11-30",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-01",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-02",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-03",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-04",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-05",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-06",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2025-12-07",
+          "contributionDays": [
+            {
+              "date": "2025-12-07",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-08",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-09",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-10",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-11",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-12",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-13",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2025-12-14",
+          "contributionDays": [
+            {
+              "date": "2025-12-14",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-15",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-16",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-17",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-18",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-19",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-20",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2025-12-21",
+          "contributionDays": [
+            {
+              "date": "2025-12-21",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-22",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-23",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-24",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-25",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-26",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-27",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2025-12-28",
+          "contributionDays": [
+            {
+              "date": "2025-12-28",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-29",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-30",
+              "contributionCount": 0
+            },
+            {
+              "date": "2025-12-31",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-01",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-02",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-03",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-01-04",
+          "contributionDays": [
+            {
+              "date": "2026-01-04",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-05",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-06",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-07",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-08",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-09",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-10",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-01-11",
+          "contributionDays": [
+            {
+              "date": "2026-01-11",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-12",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-13",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-14",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-15",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-16",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-17",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-01-18",
+          "contributionDays": [
+            {
+              "date": "2026-01-18",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-19",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-20",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-21",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-22",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-23",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-24",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-01-25",
+          "contributionDays": [
+            {
+              "date": "2026-01-25",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-26",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-27",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-28",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-29",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-30",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-01-31",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-02-01",
+          "contributionDays": [
+            {
+              "date": "2026-02-01",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-02",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-03",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-04",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-05",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-06",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-07",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-02-08",
+          "contributionDays": [
+            {
+              "date": "2026-02-08",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-09",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-10",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-11",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-12",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-13",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-14",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-02-15",
+          "contributionDays": [
+            {
+              "date": "2026-02-15",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-16",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-17",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-18",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-19",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-20",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-21",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-02-22",
+          "contributionDays": [
+            {
+              "date": "2026-02-22",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-23",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-24",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-25",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-26",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-27",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-02-28",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-03-01",
+          "contributionDays": [
+            {
+              "date": "2026-03-01",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-02",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-03",
+              "contributionCount": 1
+            },
+            {
+              "date": "2026-03-04",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-05",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-06",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-07",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-03-08",
+          "contributionDays": [
+            {
+              "date": "2026-03-08",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-09",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-10",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-11",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-12",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-13",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-14",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-03-15",
+          "contributionDays": [
+            {
+              "date": "2026-03-15",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-16",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-17",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-18",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-19",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-20",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-21",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-03-22",
+          "contributionDays": [
+            {
+              "date": "2026-03-22",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-23",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-24",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-25",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-26",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-27",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-28",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-03-29",
+          "contributionDays": [
+            {
+              "date": "2026-03-29",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-30",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-03-31",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-01",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-02",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-03",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-04",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-04-05",
+          "contributionDays": [
+            {
+              "date": "2026-04-05",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-06",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-07",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-08",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-09",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-10",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-11",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-04-12",
+          "contributionDays": [
+            {
+              "date": "2026-04-12",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-13",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-14",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-15",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-16",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-17",
+              "contributionCount": 2
+            },
+            {
+              "date": "2026-04-18",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-04-19",
+          "contributionDays": [
+            {
+              "date": "2026-04-19",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-20",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-21",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-22",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-23",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-24",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-25",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-04-26",
+          "contributionDays": [
+            {
+              "date": "2026-04-26",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-27",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-28",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-29",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-04-30",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-01",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-02",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-05-03",
+          "contributionDays": [
+            {
+              "date": "2026-05-03",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-04",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-05",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-06",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-07",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-08",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-09",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-05-10",
+          "contributionDays": [
+            {
+              "date": "2026-05-10",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-11",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-12",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-13",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-14",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-15",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-16",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-05-17",
+          "contributionDays": [
+            {
+              "date": "2026-05-17",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-18",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-19",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-20",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-21",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-22",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-23",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-05-24",
+          "contributionDays": [
+            {
+              "date": "2026-05-24",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-25",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-26",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-27",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-28",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-29",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-05-30",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-05-31",
+          "contributionDays": [
+            {
+              "date": "2026-05-31",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-01",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-02",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-03",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-04",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-05",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-06",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-06-07",
+          "contributionDays": [
+            {
+              "date": "2026-06-07",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-08",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-09",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-10",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-11",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-12",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-13",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-06-14",
+          "contributionDays": [
+            {
+              "date": "2026-06-14",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-15",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-16",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-17",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-18",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-19",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-20",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-06-21",
+          "contributionDays": [
+            {
+              "date": "2026-06-21",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-22",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-23",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-24",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-25",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-26",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-27",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-06-28",
+          "contributionDays": [
+            {
+              "date": "2026-06-28",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-29",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-06-30",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-07-01",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-07-02",
+              "contributionCount": 1
+            },
+            {
+              "date": "2026-07-03",
+              "contributionCount": 14
+            },
+            {
+              "date": "2026-07-04",
+              "contributionCount": 75
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-07-05",
+          "contributionDays": [
+            {
+              "date": "2026-07-05",
+              "contributionCount": 33
+            },
+            {
+              "date": "2026-07-06",
+              "contributionCount": 15
+            },
+            {
+              "date": "2026-07-07",
+              "contributionCount": 13
+            },
+            {
+              "date": "2026-07-08",
+              "contributionCount": 5
+            },
+            {
+              "date": "2026-07-09",
+              "contributionCount": 1
+            },
+            {
+              "date": "2026-07-10",
+              "contributionCount": 44
+            },
+            {
+              "date": "2026-07-11",
+              "contributionCount": 57
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-07-12",
+          "contributionDays": [
+            {
+              "date": "2026-07-12",
+              "contributionCount": 20
+            },
+            {
+              "date": "2026-07-13",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-07-14",
+              "contributionCount": 8
+            },
+            {
+              "date": "2026-07-15",
+              "contributionCount": 1
+            },
+            {
+              "date": "2026-07-16",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-07-17",
+              "contributionCount": 4
+            },
+            {
+              "date": "2026-07-18",
+              "contributionCount": 135
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-07-19",
+          "contributionDays": [
+            {
+              "date": "2026-07-19",
+              "contributionCount": 51
+            },
+            {
+              "date": "2026-07-20",
+              "contributionCount": 43
+            },
+            {
+              "date": "2026-07-21",
+              "contributionCount": 48
+            },
+            {
+              "date": "2026-07-22",
+              "contributionCount": 48
+            },
+            {
+              "date": "2026-07-23",
+              "contributionCount": 44
+            },
+            {
+              "date": "2026-07-24",
+              "contributionCount": 20
+            },
+            {
+              "date": "2026-07-25",
+              "contributionCount": 32
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-07-26",
+          "contributionDays": [
+            {
+              "date": "2026-07-26",
+              "contributionCount": 4
+            },
+            {
+              "date": "2026-07-27",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-07-28",
+              "contributionCount": 7
+            },
+            {
+              "date": "2026-07-29",
+              "contributionCount": 3
+            },
+            {
+              "date": "2026-07-30",
+              "contributionCount": 38
+            },
+            {
+              "date": "2026-07-31",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-08-01",
+              "contributionCount": 20
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-08-02",
+          "contributionDays": [
+            {
+              "date": "2026-08-02",
+              "contributionCount": 22
+            },
+            {
+              "date": "2026-08-03",
+              "contributionCount": 20
+            },
+            {
+              "date": "2026-08-04",
+              "contributionCount": 48
+            },
+            {
+              "date": "2026-08-05",
+              "contributionCount": 12
+            },
+            {
+              "date": "2026-08-06",
+              "contributionCount": 56
+            },
+            {
+              "date": "2026-08-07",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-08-08",
+              "contributionCount": 10
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-08-09",
+          "contributionDays": [
+            {
+              "date": "2026-08-09",
+              "contributionCount": 98
+            },
+            {
+              "date": "2026-08-10",
+              "contributionCount": 32
+            },
+            {
+              "date": "2026-08-11",
+              "contributionCount": 27
+            },
+            {
+              "date": "2026-08-12",
+              "contributionCount": 44
+            },
+            {
+              "date": "2026-08-13",
+              "contributionCount": 6
+            },
+            {
+              "date": "2026-08-14",
+              "contributionCount": 2
+            },
+            {
+              "date": "2026-08-15",
+              "contributionCount": 10
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-08-16",
+          "contributionDays": [
+            {
+              "date": "2026-08-16",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-08-17",
+              "contributionCount": 10
+            },
+            {
+              "date": "2026-08-18",
+              "contributionCount": 12
+            },
+            {
+              "date": "2026-08-19",
+              "contributionCount": 2
+            },
+            {
+              "date": "2026-08-20",
+              "contributionCount": 6
+            },
+            {
+              "date": "2026-08-21",
+              "contributionCount": 4
+            },
+            {
+              "date": "2026-08-22",
+              "contributionCount": 5
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-08-23",
+          "contributionDays": [
+            {
+              "date": "2026-08-23",
+              "contributionCount": 22
+            },
+            {
+              "date": "2026-08-24",
+              "contributionCount": 4
+            },
+            {
+              "date": "2026-08-25",
+              "contributionCount": 14
+            },
+            {
+              "date": "2026-08-26",
+              "contributionCount": 14
+            },
+            {
+              "date": "2026-08-27",
+              "contributionCount": 16
+            },
+            {
+              "date": "2026-08-28",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-08-29",
+              "contributionCount": 2
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-08-30",
+          "contributionDays": [
+            {
+              "date": "2026-08-30",
+              "contributionCount": 2
+            },
+            {
+              "date": "2026-08-31",
+              "contributionCount": 22
+            },
+            {
+              "date": "2026-09-01",
+              "contributionCount": 2
+            },
+            {
+              "date": "2026-09-02",
+              "contributionCount": 26
+            },
+            {
+              "date": "2026-09-03",
+              "contributionCount": 10
+            },
+            {
+              "date": "2026-09-04",
+              "contributionCount": 2
+            },
+            {
+              "date": "2026-09-05",
+              "contributionCount": 12
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-09-06",
+          "contributionDays": [
+            {
+              "date": "2026-09-06",
+              "contributionCount": 16
+            },
+            {
+              "date": "2026-09-07",
+              "contributionCount": 3
+            },
+            {
+              "date": "2026-09-08",
+              "contributionCount": 2
+            },
+            {
+              "date": "2026-09-09",
+              "contributionCount": 12
+            },
+            {
+              "date": "2026-09-10",
+              "contributionCount": 16
+            },
+            {
+              "date": "2026-09-11",
+              "contributionCount": 4
+            },
+            {
+              "date": "2026-09-12",
+              "contributionCount": 7
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-09-13",
+          "contributionDays": [
+            {
+              "date": "2026-09-13",
+              "contributionCount": 2
+            },
+            {
+              "date": "2026-09-14",
+              "contributionCount": 1
+            },
+            {
+              "date": "2026-09-15",
+              "contributionCount": 4
+            },
+            {
+              "date": "2026-09-16",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-09-17",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-09-18",
+              "contributionCount": 2
+            },
+            {
+              "date": "2026-09-19",
+              "contributionCount": 0
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-09-20",
+          "contributionDays": [
+            {
+              "date": "2026-09-20",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-09-21",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-09-22",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-09-23",
+              "contributionCount": 4
+            },
+            {
+              "date": "2026-09-24",
+              "contributionCount": 7
+            },
+            {
+              "date": "2026-09-25",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-09-26",
+              "contributionCount": 6
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-09-27",
+          "contributionDays": [
+            {
+              "date": "2026-09-27",
+              "contributionCount": 2
+            },
+            {
+              "date": "2026-09-28",
+              "contributionCount": 13
+            },
+            {
+              "date": "2026-09-29",
+              "contributionCount": 6
+            },
+            {
+              "date": "2026-09-30",
+              "contributionCount": 4
+            },
+            {
+              "date": "2026-10-01",
+              "contributionCount": 6
+            },
+            {
+              "date": "2026-10-02",
+              "contributionCount": 51
+            },
+            {
+              "date": "2026-10-03",
+              "contributionCount": 1
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-10-04",
+          "contributionDays": [
+            {
+              "date": "2026-10-04",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-10-05",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-10-06",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-10-07",
+              "contributionCount": 0
+            },
+            {
+              "date": "2026-10-08",
+              "contributionCount": 5
+            },
+            {
+              "date": "2026-10-09",
+              "contributionCount": 20
+            },
+            {
+              "date": "2026-10-10",
+              "contributionCount": 28
+            }
+          ]
+        },
+        {
+          "firstDay": "2026-10-11",
+          "contributionDays": [
+            {
+              "date": "2026-10-11",
+              "contributionCount": 20
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "scope": {
+    "profile_counts": "GET /users/a252937166 public profile counts. public_repos includes owned public forks.",
+    "repositories": "All repositories owned by a252937166 with privacy=PUBLIC and isFork=false; archived repositories included.",
+    "stars": "Sum of stargazerCount over owned public non-fork repositories, including archived repositories.",
+    "forks": "Sum of forkCount over owned public non-fork repositories, including archived repositories.",
+    "languages": "Sum of repository GitHub Linguist language bytes, with all language pages fetched, over the same repository scope. This measures repository composition, not personal proficiency or authored lines.",
+    "contributions": "GitHub contributionsCollection default rolling one-year window. Calendar counts are used only after verifying zero restricted contributions and zero private repository flags across all contribution types. Includes public work outside owned repositories.",
+    "weekly": "Sunday-to-Saturday contributionCalendar weeks, last 16 including current partial week; current week is marked partial.",
+    "endpoints": [
+      "https://api.github.com/users/a252937166",
+      "https://api.github.com/graphql"
+    ],
+    "repo_pages_fetched": 1,
+    "extra_language_pages_fetched": 1
+  },
+  "repositories": [
+    {
+      "name": "Test",
+      "full_name": "a252937166/Test",
+      "url": "https://github.com/a252937166/Test",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 0,
+      "languages": []
+    },
+    {
+      "name": "myCoreJava",
+      "full_name": "a252937166/myCoreJava",
+      "url": "https://github.com/a252937166/myCoreJava",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 97611,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 97611
+        }
+      ]
+    },
+    {
+      "name": "SnakeGame",
+      "full_name": "a252937166/SnakeGame",
+      "url": "https://github.com/a252937166/SnakeGame",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 12210,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 12210
+        }
+      ]
+    },
+    {
+      "name": "chat",
+      "full_name": "a252937166/chat",
+      "url": "https://github.com/a252937166/chat",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 103722,
+      "languages": [
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 80547
+        },
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 16005
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 6686
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 484
+        }
+      ]
+    },
+    {
+      "name": "ajaxdemo",
+      "full_name": "a252937166/ajaxdemo",
+      "url": "https://github.com/a252937166/ajaxdemo",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 6647,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 6647
+        }
+      ]
+    },
+    {
+      "name": "struts2validator",
+      "full_name": "a252937166/struts2validator",
+      "url": "https://github.com/a252937166/struts2validator",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 2468,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 2468
+        }
+      ]
+    },
+    {
+      "name": "struts2i18n",
+      "full_name": "a252937166/struts2i18n",
+      "url": "https://github.com/a252937166/struts2i18n",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 1407,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 1407
+        }
+      ]
+    },
+    {
+      "name": "mls",
+      "full_name": "a252937166/mls",
+      "url": "https://github.com/a252937166/mls",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 544592,
+      "languages": [
+        {
+          "name": "PLSQL",
+          "color": "#dad8d8",
+          "bytes": 290261
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 133693
+        },
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 117307
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 3331
+        }
+      ]
+    },
+    {
+      "name": "com.system.service",
+      "full_name": "a252937166/com.system.service",
+      "url": "https://github.com/a252937166/com.system.service",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 4767786,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 1863746
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 1495360
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 1344275
+        },
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 48102
+        },
+        {
+          "name": "PHP",
+          "color": "#4F5D95",
+          "bytes": 16303
+        }
+      ]
+    },
+    {
+      "name": "Heritrix",
+      "full_name": "a252937166/Heritrix",
+      "url": "https://github.com/a252937166/Heritrix",
+      "archived": false,
+      "stars": 6,
+      "forks": 5,
+      "language_bytes": 5982399,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 5072846
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 891283
+        },
+        {
+          "name": "PostScript",
+          "color": "#da291c",
+          "bytes": 12552
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 4917
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 801
+        }
+      ]
+    },
+    {
+      "name": "winxins2",
+      "full_name": "a252937166/winxins2",
+      "url": "https://github.com/a252937166/winxins2",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 14434,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 14434
+        }
+      ]
+    },
+    {
+      "name": "mybatis-spring-boot",
+      "full_name": "a252937166/mybatis-spring-boot",
+      "url": "https://github.com/a252937166/mybatis-spring-boot",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 23716,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 23250
+        },
+        {
+          "name": "FreeMarker",
+          "color": "#0050b2",
+          "bytes": 391
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 75
+        }
+      ]
+    },
+    {
+      "name": "mybatis-generator-core-1.3.2",
+      "full_name": "a252937166/mybatis-generator-core-1.3.2",
+      "url": "https://github.com/a252937166/mybatis-generator-core-1.3.2",
+      "archived": false,
+      "stars": 3,
+      "forks": 7,
+      "language_bytes": 1257,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 1257
+        }
+      ]
+    },
+    {
+      "name": "fastDFS",
+      "full_name": "a252937166/fastDFS",
+      "url": "https://github.com/a252937166/fastDFS",
+      "archived": false,
+      "stars": 1,
+      "forks": 4,
+      "language_bytes": 0,
+      "languages": []
+    },
+    {
+      "name": "crawler4j",
+      "full_name": "a252937166/crawler4j",
+      "url": "https://github.com/a252937166/crawler4j",
+      "archived": false,
+      "stars": 0,
+      "forks": 1,
+      "language_bytes": 27400,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 27400
+        }
+      ]
+    },
+    {
+      "name": "wxapi",
+      "full_name": "a252937166/wxapi",
+      "url": "https://github.com/a252937166/wxapi",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 100586,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 100120
+        },
+        {
+          "name": "FreeMarker",
+          "color": "#0050b2",
+          "bytes": 391
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 75
+        }
+      ]
+    },
+    {
+      "name": "diandi",
+      "full_name": "a252937166/diandi",
+      "url": "https://github.com/a252937166/diandi",
+      "archived": false,
+      "stars": 1,
+      "forks": 0,
+      "language_bytes": 5367,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 5367
+        }
+      ]
+    },
+    {
+      "name": "wxai",
+      "full_name": "a252937166/wxai",
+      "url": "https://github.com/a252937166/wxai",
+      "archived": false,
+      "stars": 1,
+      "forks": 0,
+      "language_bytes": 44889,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 44889
+        }
+      ]
+    },
+    {
+      "name": "seimicrawler",
+      "full_name": "a252937166/seimicrawler",
+      "url": "https://github.com/a252937166/seimicrawler",
+      "archived": false,
+      "stars": 5,
+      "forks": 7,
+      "language_bytes": 154325,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 154325
+        }
+      ]
+    },
+    {
+      "name": "seimiagent",
+      "full_name": "a252937166/seimiagent",
+      "url": "https://github.com/a252937166/seimiagent",
+      "archived": false,
+      "stars": 3,
+      "forks": 2,
+      "language_bytes": 0,
+      "languages": []
+    },
+    {
+      "name": "webmagic",
+      "full_name": "a252937166/webmagic",
+      "url": "https://github.com/a252937166/webmagic",
+      "archived": false,
+      "stars": 0,
+      "forks": 1,
+      "language_bytes": 947728,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 710911
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 231706
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 1777
+        },
+        {
+          "name": "Kotlin",
+          "color": "#A97BFF",
+          "bytes": 1371
+        },
+        {
+          "name": "Ruby",
+          "color": "#701516",
+          "bytes": 832
+        },
+        {
+          "name": "Groovy",
+          "color": "#4298b8",
+          "bytes": 545
+        },
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "bytes": 393
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "bytes": 193
+        }
+      ]
+    },
+    {
+      "name": "spring-cloud-learn",
+      "full_name": "a252937166/spring-cloud-learn",
+      "url": "https://github.com/a252937166/spring-cloud-learn",
+      "archived": false,
+      "stars": 0,
+      "forks": 1,
+      "language_bytes": 11023,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 11023
+        }
+      ]
+    },
+    {
+      "name": "config-test",
+      "full_name": "a252937166/config-test",
+      "url": "https://github.com/a252937166/config-test",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 0,
+      "languages": []
+    },
+    {
+      "name": "kafka-learn",
+      "full_name": "a252937166/kafka-learn",
+      "url": "https://github.com/a252937166/kafka-learn",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 7982,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 7982
+        }
+      ]
+    },
+    {
+      "name": "quick-spring",
+      "full_name": "a252937166/quick-spring",
+      "url": "https://github.com/a252937166/quick-spring",
+      "archived": false,
+      "stars": 2,
+      "forks": 3,
+      "language_bytes": 10564,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 10564
+        }
+      ]
+    },
+    {
+      "name": "quick-selenium",
+      "full_name": "a252937166/quick-selenium",
+      "url": "https://github.com/a252937166/quick-selenium",
+      "archived": false,
+      "stars": 7,
+      "forks": 7,
+      "language_bytes": 58852,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 58852
+        }
+      ]
+    },
+    {
+      "name": "toutiaocrawler",
+      "full_name": "a252937166/toutiaocrawler",
+      "url": "https://github.com/a252937166/toutiaocrawler",
+      "archived": false,
+      "stars": 33,
+      "forks": 16,
+      "language_bytes": 28985,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 28985
+        }
+      ]
+    },
+    {
+      "name": "aaa-j",
+      "full_name": "a252937166/aaa-j",
+      "url": "https://github.com/a252937166/aaa-j",
+      "archived": false,
+      "stars": 4,
+      "forks": 0,
+      "language_bytes": 0,
+      "languages": []
+    },
+    {
+      "name": "spring-boot-demo",
+      "full_name": "a252937166/spring-boot-demo",
+      "url": "https://github.com/a252937166/spring-boot-demo",
+      "archived": false,
+      "stars": 4,
+      "forks": 3,
+      "language_bytes": 34289,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 33399
+        },
+        {
+          "name": "PLpgSQL",
+          "color": "#336790",
+          "bytes": 890
+        }
+      ]
+    },
+    {
+      "name": "comic-crawler",
+      "full_name": "a252937166/comic-crawler",
+      "url": "https://github.com/a252937166/comic-crawler",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 68870,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 68870
+        }
+      ]
+    },
+    {
+      "name": "demo",
+      "full_name": "a252937166/demo",
+      "url": "https://github.com/a252937166/demo",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 56825,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 56825
+        }
+      ]
+    },
+    {
+      "name": "spring-boot-starter-demo",
+      "full_name": "a252937166/spring-boot-starter-demo",
+      "url": "https://github.com/a252937166/spring-boot-starter-demo",
+      "archived": false,
+      "stars": 8,
+      "forks": 2,
+      "language_bytes": 2168,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 2168
+        }
+      ]
+    },
+    {
+      "name": "identifyRMB",
+      "full_name": "a252937166/identifyRMB",
+      "url": "https://github.com/a252937166/identifyRMB",
+      "archived": false,
+      "stars": 2,
+      "forks": 1,
+      "language_bytes": 2491,
+      "languages": [
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "bytes": 2491
+        }
+      ]
+    },
+    {
+      "name": "lesson",
+      "full_name": "a252937166/lesson",
+      "url": "https://github.com/a252937166/lesson",
+      "archived": false,
+      "stars": 1,
+      "forks": 2,
+      "language_bytes": 46390,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 46390
+        }
+      ]
+    },
+    {
+      "name": "testDemo",
+      "full_name": "a252937166/testDemo",
+      "url": "https://github.com/a252937166/testDemo",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 188579,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 97422
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 63142
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 28015
+        }
+      ]
+    },
+    {
+      "name": "t",
+      "full_name": "a252937166/t",
+      "url": "https://github.com/a252937166/t",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 0,
+      "languages": []
+    },
+    {
+      "name": "travis-test",
+      "full_name": "a252937166/travis-test",
+      "url": "https://github.com/a252937166/travis-test",
+      "archived": false,
+      "stars": 0,
+      "forks": 1,
+      "language_bytes": 1416,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 1416
+        }
+      ]
+    },
+    {
+      "name": "help-test",
+      "full_name": "a252937166/help-test",
+      "url": "https://github.com/a252937166/help-test",
+      "archived": false,
+      "stars": 1,
+      "forks": 1,
+      "language_bytes": 10044,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 10044
+        }
+      ]
+    },
+    {
+      "name": "ttttt",
+      "full_name": "a252937166/ttttt",
+      "url": "https://github.com/a252937166/ttttt",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 0,
+      "languages": []
+    },
+    {
+      "name": "reactor-demo",
+      "full_name": "a252937166/reactor-demo",
+      "url": "https://github.com/a252937166/reactor-demo",
+      "archived": false,
+      "stars": 0,
+      "forks": 1,
+      "language_bytes": 15050,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 15050
+        }
+      ]
+    },
+    {
+      "name": "spring-boot-hystrix-demo",
+      "full_name": "a252937166/spring-boot-hystrix-demo",
+      "url": "https://github.com/a252937166/spring-boot-hystrix-demo",
+      "archived": false,
+      "stars": 0,
+      "forks": 1,
+      "language_bytes": 15030,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 15030
+        }
+      ]
+    },
+    {
+      "name": "webflux-ddd-chat",
+      "full_name": "a252937166/webflux-ddd-chat",
+      "url": "https://github.com/a252937166/webflux-ddd-chat",
+      "archived": false,
+      "stars": 1,
+      "forks": 1,
+      "language_bytes": 53379,
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "bytes": 51517
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 1862
+        }
+      ]
+    },
+    {
+      "name": "faktura",
+      "full_name": "a252937166/faktura",
+      "url": "https://github.com/a252937166/faktura",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 218723,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 169152
+        },
+        {
+          "name": "Solidity",
+          "color": "#AA6746",
+          "bytes": 30538
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 18345
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 688
+        }
+      ]
+    },
+    {
+      "name": "faktura-casper",
+      "full_name": "a252937166/faktura-casper",
+      "url": "https://github.com/a252937166/faktura-casper",
+      "archived": false,
+      "stars": 0,
+      "forks": 2,
+      "language_bytes": 649546,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 490490
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 101683
+        },
+        {
+          "name": "Rust",
+          "color": "#dea584",
+          "bytes": 50468
+        },
+        {
+          "name": "Makefile",
+          "color": "#427819",
+          "bytes": 4497
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 2408
+        }
+      ]
+    },
+    {
+      "name": "engram",
+      "full_name": "a252937166/engram",
+      "url": "https://github.com/a252937166/engram",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 466178,
+      "languages": [
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 329744
+        },
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "bytes": 120039
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 15226
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "bytes": 1169
+        }
+      ]
+    },
+    {
+      "name": "strata",
+      "full_name": "a252937166/strata",
+      "url": "https://github.com/a252937166/strata",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 145626,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 92149
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 27428
+        },
+        {
+          "name": "COBOL",
+          "color": null,
+          "bytes": 14342
+        },
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "bytes": 10733
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 974
+        }
+      ]
+    },
+    {
+      "name": "canton-lowlevel-lab",
+      "full_name": "a252937166/canton-lowlevel-lab",
+      "url": "https://github.com/a252937166/canton-lowlevel-lab",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 13937,
+      "languages": [
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "bytes": 13937
+        }
+      ]
+    },
+    {
+      "name": "croocred",
+      "full_name": "a252937166/croocred",
+      "url": "https://github.com/a252937166/croocred",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 226842,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 225012
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 1830
+        }
+      ]
+    },
+    {
+      "name": "tegata-protocol",
+      "full_name": "a252937166/tegata-protocol",
+      "url": "https://github.com/a252937166/tegata-protocol",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 333392,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 285636
+        },
+        {
+          "name": "Solidity",
+          "color": "#AA6746",
+          "bytes": 36291
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 6533
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "bytes": 4349
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 583
+        }
+      ]
+    },
+    {
+      "name": "traceforge",
+      "full_name": "a252937166/traceforge",
+      "url": "https://github.com/a252937166/traceforge",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 943148,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 740772
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 105214
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 84518
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "bytes": 10910
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 1734
+        }
+      ]
+    },
+    {
+      "name": "proofline",
+      "full_name": "a252937166/proofline",
+      "url": "https://github.com/a252937166/proofline",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 1051958,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 815939
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 168996
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "bytes": 28189
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 22798
+        },
+        {
+          "name": "Solidity",
+          "color": "#AA6746",
+          "bytes": 13985
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 2051
+        }
+      ]
+    },
+    {
+      "name": "license402",
+      "full_name": "a252937166/license402",
+      "url": "https://github.com/a252937166/license402",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 579617,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 427852
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 122371
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 25063
+        },
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "bytes": 3452
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "bytes": 879
+        }
+      ]
+    },
+    {
+      "name": "heirloom",
+      "full_name": "a252937166/heirloom",
+      "url": "https://github.com/a252937166/heirloom",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 481683,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 278464
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 159492
+        },
+        {
+          "name": "Solidity",
+          "color": "#AA6746",
+          "bytes": 23605
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 18251
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "bytes": 1241
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 630
+        }
+      ]
+    },
+    {
+      "name": "veilguard",
+      "full_name": "a252937166/veilguard",
+      "url": "https://github.com/a252937166/veilguard",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 1442802,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 1025724
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 253100
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 120556
+        },
+        {
+          "name": "Solidity",
+          "color": "#AA6746",
+          "bytes": 33499
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 9923
+        }
+      ]
+    },
+    {
+      "name": "AlphaPilot-AI",
+      "full_name": "a252937166/AlphaPilot-AI",
+      "url": "https://github.com/a252937166/AlphaPilot-AI",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 11252795,
+      "languages": [
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "bytes": 10567185
+        },
+        {
+          "name": "Vue",
+          "color": "#41b883",
+          "bytes": 507629
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "bytes": 84499
+        },
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 57904
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 20631
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 11103
+        },
+        {
+          "name": "Makefile",
+          "color": "#427819",
+          "bytes": 1643
+        },
+        {
+          "name": "Dockerfile",
+          "color": "#384d54",
+          "bytes": 999
+        },
+        {
+          "name": "PowerShell",
+          "color": "#012456",
+          "bytes": 820
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 382
+        }
+      ]
+    },
+    {
+      "name": "codex-chatgpt-web-bridge",
+      "full_name": "a252937166/codex-chatgpt-web-bridge",
+      "url": "https://github.com/a252937166/codex-chatgpt-web-bridge",
+      "archived": false,
+      "stars": 1,
+      "forks": 0,
+      "language_bytes": 72845,
+      "languages": [
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "bytes": 69090
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "bytes": 3069
+        },
+        {
+          "name": "Makefile",
+          "color": "#427819",
+          "bytes": 412
+        },
+        {
+          "name": "Dockerfile",
+          "color": "#384d54",
+          "bytes": 274
+        }
+      ]
+    },
+    {
+      "name": "MiroFishCodex",
+      "full_name": "a252937166/MiroFishCodex",
+      "url": "https://github.com/a252937166/MiroFishCodex",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 2390706,
+      "languages": [
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "bytes": 1829259
+        },
+        {
+          "name": "Vue",
+          "color": "#41b883",
+          "bytes": 546241
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 13044
+        },
+        {
+          "name": "Dockerfile",
+          "color": "#384d54",
+          "bytes": 1243
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 919
+        }
+      ]
+    },
+    {
+      "name": "LocalPilot",
+      "full_name": "a252937166/LocalPilot",
+      "url": "https://github.com/a252937166/LocalPilot",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 792019,
+      "languages": [
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "bytes": 679477
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 112542
+        }
+      ]
+    },
+    {
+      "name": "claude-video-studio",
+      "full_name": "a252937166/claude-video-studio",
+      "url": "https://github.com/a252937166/claude-video-studio",
+      "archived": false,
+      "stars": 8,
+      "forks": 0,
+      "language_bytes": 184842,
+      "languages": [
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "bytes": 180490
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "bytes": 4352
+        }
+      ]
+    },
+    {
+      "name": "cc-mod",
+      "full_name": "a252937166/cc-mod",
+      "url": "https://github.com/a252937166/cc-mod",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 276989,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 274169
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "bytes": 2820
+        }
+      ]
+    },
+    {
+      "name": "arcpreflight",
+      "full_name": "a252937166/arcpreflight",
+      "url": "https://github.com/a252937166/arcpreflight",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 2697367,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 2567812
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 66399
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "bytes": 33249
+        },
+        {
+          "name": "Solidity",
+          "color": "#AA6746",
+          "bytes": 16126
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 12687
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "name": "a252937166",
+      "full_name": "a252937166/a252937166",
+      "url": "https://github.com/a252937166/a252937166",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 6896,
+      "languages": [
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "bytes": 6896
+        }
+      ]
+    }
+  ]
+}
