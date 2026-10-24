@@ -1,122 +1,122 @@
 {
-  "fetched_at": "2026-10-23T11:50:58Z",
-  "fetch_started_at": "2026-10-23T11:50:52Z",
+  "fetched_at": "2026-10-24T11:18:31Z",
+  "fetch_started_at": "2026-10-24T11:18:26Z",
   "profile": {
     "login": "a252937166",
     "name": "Mr.ooo",
     "html_url": "https://github.com/a252937166",
     "avatar_url": "https://avatars.githubusercontent.com/u/16303294?v=4",
-    "public_repos": 109,
+    "public_repos": 110,
     "followers": 68,
     "following": 15,
     "created_at": "2015-12-15T09:47:58Z",
     "updated_at": "2026-10-11T11:11:29Z"
   },
   "metrics": {
-    "public_repositories": 109,
-    "owned_public_nonfork_repositories": 67,
+    "public_repositories": 110,
+    "owned_public_nonfork_repositories": 68,
     "archived_in_scope": 0,
-    "received_stars": 97,
+    "received_stars": 98,
     "received_forks": 70,
     "followers": 68,
-    "public_contributions_last_year": 1725,
-    "language_bytes": 48233200
+    "public_contributions_last_year": 1734,
+    "language_bytes": 49828159
   },
   "languages": [
     {
       "name": "Python",
-      "bytes": 22110255,
-      "percent": 45.8403,
+      "bytes": 22172211,
+      "percent": 44.4974,
       "color": "#3572A5"
     },
     {
       "name": "TypeScript",
-      "bytes": 7791755,
-      "percent": 16.1543,
+      "bytes": 9129586,
+      "percent": 18.3221,
       "color": "#3178c6"
     },
     {
       "name": "Java",
       "bytes": 6809981,
-      "percent": 14.1189,
+      "percent": 13.6669,
       "color": "#b07219"
     },
     {
       "name": "HTML",
-      "bytes": 3383211,
-      "percent": 7.0143,
+      "bytes": 3384517,
+      "percent": 6.7924,
       "color": "#e34c26"
     },
     {
       "name": "JavaScript",
-      "bytes": 3213322,
-      "percent": 6.6621,
+      "bytes": 3331597,
+      "percent": 6.6862,
       "color": "#f1e05a"
     },
     {
       "name": "CSS",
-      "bytes": 2162124,
-      "percent": 4.4826,
+      "bytes": 2229458,
+      "percent": 4.4743,
       "color": "#663399"
     },
     {
       "name": "Vue",
       "bytes": 1053870,
-      "percent": 2.1849,
+      "percent": 2.115,
       "color": "#41b883"
     },
     {
       "name": "Solidity",
-      "bytes": 982881,
-      "percent": 2.0378,
+      "bytes": 978516,
+      "percent": 1.9638,
       "color": "#AA6746"
     },
     {
       "name": "Shell",
-      "bytes": 327567,
-      "percent": 0.6791,
+      "bytes": 339928,
+      "percent": 0.6822,
       "color": "#89e051"
     },
     {
       "name": "PLSQL",
       "bytes": 290261,
-      "percent": 0.6018,
+      "percent": 0.5825,
       "color": "#dad8d8"
     },
     {
       "name": "Rust",
       "bytes": 50468,
-      "percent": 0.1046,
+      "percent": 0.1013,
       "color": "#dea584"
     },
     {
       "name": "PHP",
       "bytes": 16303,
-      "percent": 0.0338,
+      "percent": 0.0327,
       "color": "#4F5D95"
     },
     {
       "name": "COBOL",
       "bytes": 14342,
-      "percent": 0.0297,
+      "percent": 0.0288,
       "color": null
     },
     {
       "name": "PostScript",
       "bytes": 12552,
-      "percent": 0.026,
+      "percent": 0.0252,
       "color": "#da291c"
     },
     {
       "name": "Makefile",
       "bytes": 6552,
-      "percent": 0.0136,
+      "percent": 0.0131,
       "color": "#427819"
     },
     {
       "name": "Dockerfile",
-      "bytes": 2516,
-      "percent": 0.0052,
+      "bytes": 2777,
+      "percent": 0.0056,
       "color": "#384d54"
     },
     {
@@ -140,7 +140,7 @@
     {
       "name": "PowerShell",
       "bytes": 820,
-      "percent": 0.0017,
+      "percent": 0.0016,
       "color": "#012456"
     },
     {
@@ -158,7 +158,7 @@
   ],
   "activity": {
     "started_at": "2025-10-19T00:00:00Z",
-    "ended_at": "2026-10-23T23:59:59Z",
+    "ended_at": "2026-10-24T23:59:59Z",
     "public_only_verified": true,
     "restricted_contributions": 0,
     "privacy_counts": {
@@ -169,11 +169,11 @@
       "private_repositoryContributions": 0
     },
     "contribution_types": {
-      "totalCommitContributions": 1654,
+      "totalCommitContributions": 1662,
       "totalIssueContributions": 17,
       "totalPullRequestContributions": 22,
       "totalPullRequestReviewContributions": 3,
-      "totalRepositoryContributions": 29
+      "totalRepositoryContributions": 30
     },
     "weekly_last_16": [
       {
@@ -284,13 +284,13 @@
       {
         "week_start": "2026-10-18",
         "week_end": "2026-10-24",
-        "contributions": 93,
-        "days_in_range": 6,
+        "contributions": 102,
+        "days_in_range": 7,
         "partial": true
       }
     ],
     "calendar": {
-      "totalContributions": 1725,
+      "totalContributions": 1734,
       "weeks": [
         {
           "firstDay": "2025-10-19",
@@ -2033,7 +2033,11 @@
             },
             {
               "date": "2026-10-23",
-              "contributionCount": 15
+              "contributionCount": 24
+            },
+            {
+              "date": "2026-10-24",
+              "contributionCount": 0
             }
           ]
         }
@@ -3382,7 +3386,7 @@
       "full_name": "a252937166/claude-video-studio",
       "url": "https://github.com/a252937166/claude-video-studio",
       "archived": false,
-      "stars": 12,
+      "stars": 13,
       "forks": 0,
       "language_bytes": 184842,
       "languages": [
@@ -3483,22 +3487,22 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "language_bytes": 1172075,
+      "language_bytes": 1453747,
       "languages": [
         {
           "name": "Solidity",
           "color": "#AA6746",
-          "bytes": 826629
+          "bytes": 822264
         },
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "bytes": 288779
+          "bytes": 536193
         },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "bytes": 19933
+          "bytes": 56362
         },
         {
           "name": "CSS",
@@ -3509,6 +3513,11 @@
           "name": "Python",
           "color": "#3572A5",
           "bytes": 17709
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "bytes": 2194
         },
         {
           "name": "HTML",
@@ -3597,12 +3606,12 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "language_bytes": 340647,
+      "language_bytes": 345893,
       "languages": [
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "bytes": 286065
+          "bytes": 291311
         },
         {
           "name": "HTML",
@@ -3613,6 +3622,52 @@
           "name": "Solidity",
           "color": "#AA6746",
           "bytes": 2208
+        }
+      ]
+    },
+    {
+      "name": "recart",
+      "full_name": "a252937166/recart",
+      "url": "https://github.com/a252937166/recart",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 1308041,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 1090417
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 76600
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 67334
+        },
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "bytes": 61956
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "bytes": 10167
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 1306
+        },
+        {
+          "name": "Dockerfile",
+          "color": "#384d54",
+          "bytes": 261
         }
       ]
     }
