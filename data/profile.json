@@ -1,128 +1,128 @@
 {
-  "fetched_at": "2026-10-25T11:47:59Z",
-  "fetch_started_at": "2026-10-25T11:47:54Z",
+  "fetched_at": "2026-10-26T13:20:50Z",
+  "fetch_started_at": "2026-10-26T13:20:45Z",
   "profile": {
     "login": "a252937166",
     "name": "Mr.ooo",
     "html_url": "https://github.com/a252937166",
     "avatar_url": "https://avatars.githubusercontent.com/u/16303294?v=4",
-    "public_repos": 110,
+    "public_repos": 112,
     "followers": 68,
     "following": 15,
     "created_at": "2015-12-15T09:47:58Z",
     "updated_at": "2026-10-11T11:11:29Z"
   },
   "metrics": {
-    "public_repositories": 110,
-    "owned_public_nonfork_repositories": 68,
+    "public_repositories": 112,
+    "owned_public_nonfork_repositories": 70,
     "archived_in_scope": 0,
     "received_stars": 99,
     "received_forks": 70,
     "followers": 68,
-    "public_contributions_last_year": 1765,
-    "language_bytes": 51039097
+    "public_contributions_last_year": 1801,
+    "language_bytes": 51954410
   },
   "languages": [
     {
       "name": "Python",
-      "bytes": 22172211,
-      "percent": 43.4416,
+      "bytes": 22182733,
+      "percent": 42.6965,
       "color": "#3572A5"
     },
     {
       "name": "TypeScript",
-      "bytes": 9168983,
-      "percent": 17.9646,
+      "bytes": 9269166,
+      "percent": 17.841,
       "color": "#3178c6"
     },
     {
       "name": "Java",
       "bytes": 6809981,
-      "percent": 13.3427,
+      "percent": 13.1076,
       "color": "#b07219"
     },
     {
       "name": "JavaScript",
-      "bytes": 3990553,
-      "percent": 7.8186,
+      "bytes": 4758640,
+      "percent": 9.1593,
       "color": "#f1e05a"
     },
     {
       "name": "HTML",
-      "bytes": 3744890,
-      "percent": 7.3373,
+      "bytes": 3745579,
+      "percent": 7.2094,
       "color": "#e34c26"
     },
     {
       "name": "CSS",
-      "bytes": 2366806,
-      "percent": 4.6372,
+      "bytes": 2402638,
+      "percent": 4.6245,
       "color": "#663399"
     },
     {
       "name": "Vue",
       "bytes": 1053870,
-      "percent": 2.0648,
+      "percent": 2.0285,
       "color": "#41b883"
     },
     {
       "name": "Solidity",
       "bytes": 993380,
-      "percent": 1.9463,
+      "percent": 1.912,
       "color": "#AA6746"
     },
     {
       "name": "Shell",
       "bytes": 339928,
-      "percent": 0.666,
+      "percent": 0.6543,
       "color": "#89e051"
     },
     {
       "name": "PLSQL",
       "bytes": 290261,
-      "percent": 0.5687,
+      "percent": 0.5587,
       "color": "#dad8d8"
     },
     {
       "name": "Rust",
       "bytes": 50468,
-      "percent": 0.0989,
+      "percent": 0.0971,
       "color": "#dea584"
     },
     {
       "name": "PHP",
       "bytes": 16303,
-      "percent": 0.0319,
+      "percent": 0.0314,
       "color": "#4F5D95"
     },
     {
       "name": "COBOL",
       "bytes": 14342,
-      "percent": 0.0281,
+      "percent": 0.0276,
       "color": null
     },
     {
       "name": "PostScript",
       "bytes": 12552,
-      "percent": 0.0246,
+      "percent": 0.0242,
       "color": "#da291c"
     },
     {
       "name": "Makefile",
       "bytes": 6552,
-      "percent": 0.0128,
+      "percent": 0.0126,
       "color": "#427819"
     },
     {
       "name": "Dockerfile",
       "bytes": 2777,
-      "percent": 0.0054,
+      "percent": 0.0053,
       "color": "#384d54"
     },
     {
       "name": "Kotlin",
       "bytes": 1371,
-      "percent": 0.0027,
+      "percent": 0.0026,
       "color": "#A97BFF"
     },
     {
@@ -152,13 +152,13 @@
     {
       "name": "Groovy",
       "bytes": 545,
-      "percent": 0.0011,
+      "percent": 0.001,
       "color": "#4298b8"
     }
   ],
   "activity": {
-    "started_at": "2025-10-19T00:00:00Z",
-    "ended_at": "2026-10-25T23:59:59Z",
+    "started_at": "2025-10-26T00:00:00Z",
+    "ended_at": "2026-10-26T23:59:59Z",
     "public_only_verified": true,
     "restricted_contributions": 0,
     "privacy_counts": {
@@ -169,11 +169,11 @@
       "private_repositoryContributions": 0
     },
     "contribution_types": {
-      "totalCommitContributions": 1693,
+      "totalCommitContributions": 1727,
       "totalIssueContributions": 17,
       "totalPullRequestContributions": 22,
       "totalPullRequestReviewContributions": 3,
-      "totalRepositoryContributions": 30
+      "totalRepositoryContributions": 32
     },
     "weekly_last_16": [
       {
@@ -284,13 +284,13 @@
       {
         "week_start": "2026-10-25",
         "week_end": "2026-10-31",
-        "contributions": 13,
-        "days_in_range": 1,
+        "contributions": 49,
+        "days_in_range": 2,
         "partial": true
       }
     ],
     "calendar": {
-      "totalContributions": 1765,
+      "totalContributions": 1801,
       "weeks": [
         {
           "firstDay": "2025-10-26",
@@ -2013,6 +2013,10 @@
           "contributionDays": [
             {
               "date": "2026-10-25",
+              "contributionCount": 36
+            },
+            {
+              "date": "2026-10-26",
               "contributionCount": 13
             }
           ]
@@ -3463,7 +3467,7 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "language_bytes": 1453747,
+      "language_bytes": 1596705,
       "languages": [
         {
           "name": "Solidity",
@@ -3473,17 +3477,17 @@
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "bytes": 536193
+          "bytes": 636376
         },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "bytes": 56362
+          "bytes": 81559
         },
         {
           "name": "CSS",
           "color": "#663399",
-          "bytes": 18281
+          "bytes": 36155
         },
         {
           "name": "Python",
@@ -3498,7 +3502,7 @@
         {
           "name": "HTML",
           "color": "#e34c26",
-          "bytes": 744
+          "bytes": 448
         }
       ]
     },
@@ -3582,12 +3586,12 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "language_bytes": 1512988,
+      "language_bytes": 2097482,
       "languages": [
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "bytes": 945821
+          "bytes": 1523545
         },
         {
           "name": "HTML",
@@ -3597,7 +3601,7 @@
         {
           "name": "CSS",
           "color": "#663399",
-          "bytes": 137348
+          "bytes": 144118
         },
         {
           "name": "Solidity",
@@ -3649,6 +3653,53 @@
           "name": "Dockerfile",
           "color": "#384d54",
           "bytes": 261
+        }
+      ]
+    },
+    {
+      "name": "dreamdex-perps-feedback",
+      "full_name": "a252937166/dreamdex-perps-feedback",
+      "url": "https://github.com/a252937166/dreamdex-perps-feedback",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 25226,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 14704
+        },
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "bytes": 10522
+        }
+      ]
+    },
+    {
+      "name": "revivecheck-consumer-example",
+      "full_name": "a252937166/revivecheck-consumer-example",
+      "url": "https://github.com/a252937166/revivecheck-consumer-example",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 162635,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 150462
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 11188
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 985
         }
       ]
     }
