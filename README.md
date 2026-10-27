@@ -16,7 +16,7 @@ I build tools for AI agents, from local development workflows to persistent memo
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui-v4/activity-dark.svg"><img src="assets/ui-v4/activity-light.svg" alt="Weekly public GitHub contribution activity over the last 16 weeks." width="410" align="top"></picture> &nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui-v4/languages-dark.svg"><img src="assets/ui-v4/languages-light.svg" alt="Language composition by code bytes across owned public non-fork repositories." width="410" align="top"></picture>
 
-<sub><!-- snapshot-date -->Updated 2026-10-26<!-- /snapshot-date --> · Scheduled to refresh daily</sub>
+<sub><!-- snapshot-date -->Updated 2026-10-27<!-- /snapshot-date --> · Scheduled to refresh daily</sub>
 
 <details>
 <summary>About these numbers</summary>
