@@ -1,116 +1,116 @@
 {
-  "fetched_at": "2026-11-19T15:54:36Z",
-  "fetch_started_at": "2026-11-19T15:54:29Z",
+  "fetched_at": "2026-11-20T15:38:26Z",
+  "fetch_started_at": "2026-11-20T15:38:20Z",
   "profile": {
     "login": "a252937166",
     "name": "Mr.ooo",
     "html_url": "https://github.com/a252937166",
     "avatar_url": "https://avatars.githubusercontent.com/u/16303294?v=4",
-    "public_repos": 112,
+    "public_repos": 113,
     "followers": 68,
     "following": 15,
     "created_at": "2015-12-15T09:47:58Z",
     "updated_at": "2026-11-18T02:19:11Z"
   },
   "metrics": {
-    "public_repositories": 112,
-    "owned_public_nonfork_repositories": 70,
+    "public_repositories": 113,
+    "owned_public_nonfork_repositories": 71,
     "archived_in_scope": 0,
     "received_stars": 102,
     "received_forks": 70,
     "followers": 68,
-    "public_contributions_last_year": 2122,
-    "language_bytes": 53096930
+    "public_contributions_last_year": 2137,
+    "language_bytes": 53740561
   },
   "languages": [
     {
       "name": "Python",
-      "bytes": 22182733,
-      "percent": 41.7778,
+      "bytes": 22328554,
+      "percent": 41.5488,
       "color": "#3572A5"
     },
     {
       "name": "TypeScript",
-      "bytes": 10013399,
-      "percent": 18.8587,
+      "bytes": 10418658,
+      "percent": 19.387,
       "color": "#3178c6"
     },
     {
       "name": "Java",
       "bytes": 6809981,
-      "percent": 12.8256,
+      "percent": 12.672,
       "color": "#b07219"
     },
     {
       "name": "JavaScript",
-      "bytes": 4849431,
-      "percent": 9.1332,
+      "bytes": 4855474,
+      "percent": 9.035,
       "color": "#f1e05a"
     },
     {
       "name": "HTML",
-      "bytes": 3869000,
-      "percent": 7.2867,
+      "bytes": 3869715,
+      "percent": 7.2007,
       "color": "#e34c26"
     },
     {
       "name": "CSS",
-      "bytes": 2508981,
-      "percent": 4.7253,
+      "bytes": 2582745,
+      "percent": 4.806,
       "color": "#663399"
     },
     {
       "name": "Solidity",
       "bytes": 1071112,
-      "percent": 2.0173,
+      "percent": 1.9931,
       "color": "#AA6746"
     },
     {
       "name": "Vue",
       "bytes": 1053870,
-      "percent": 1.9848,
+      "percent": 1.961,
       "color": "#41b883"
     },
     {
       "name": "Shell",
-      "bytes": 339928,
-      "percent": 0.6402,
+      "bytes": 351957,
+      "percent": 0.6549,
       "color": "#89e051"
     },
     {
       "name": "PLSQL",
       "bytes": 290261,
-      "percent": 0.5467,
+      "percent": 0.5401,
       "color": "#dad8d8"
     },
     {
       "name": "Rust",
       "bytes": 50468,
-      "percent": 0.095,
+      "percent": 0.0939,
       "color": "#dea584"
     },
     {
       "name": "PHP",
       "bytes": 16303,
-      "percent": 0.0307,
+      "percent": 0.0303,
       "color": "#4F5D95"
     },
     {
       "name": "COBOL",
       "bytes": 14342,
-      "percent": 0.027,
+      "percent": 0.0267,
       "color": null
     },
     {
       "name": "PostScript",
       "bytes": 12552,
-      "percent": 0.0236,
+      "percent": 0.0234,
       "color": "#da291c"
     },
     {
       "name": "Makefile",
       "bytes": 6552,
-      "percent": 0.0123,
+      "percent": 0.0122,
       "color": "#427819"
     },
     {
@@ -134,7 +134,7 @@
     {
       "name": "Ruby",
       "bytes": 832,
-      "percent": 0.0016,
+      "percent": 0.0015,
       "color": "#701516"
     },
     {
@@ -158,7 +158,7 @@
   ],
   "activity": {
     "started_at": "2025-11-16T00:00:00Z",
-    "ended_at": "2026-11-19T23:59:59Z",
+    "ended_at": "2026-11-20T23:59:59Z",
     "public_only_verified": true,
     "restricted_contributions": 0,
     "privacy_counts": {
@@ -169,11 +169,11 @@
       "private_repositoryContributions": 0
     },
     "contribution_types": {
-      "totalCommitContributions": 2048,
+      "totalCommitContributions": 2062,
       "totalIssueContributions": 17,
       "totalPullRequestContributions": 22,
       "totalPullRequestReviewContributions": 3,
-      "totalRepositoryContributions": 32
+      "totalRepositoryContributions": 33
     },
     "weekly_last_16": [
       {
@@ -270,27 +270,27 @@
       {
         "week_start": "2026-11-01",
         "week_end": "2026-11-07",
-        "contributions": 0,
+        "contributions": 9,
         "days_in_range": 7,
         "partial": false
       },
       {
         "week_start": "2026-11-08",
         "week_end": "2026-11-14",
-        "contributions": 0,
+        "contributions": 3,
         "days_in_range": 7,
         "partial": false
       },
       {
         "week_start": "2026-11-15",
         "week_end": "2026-11-21",
-        "contributions": 0,
-        "days_in_range": 5,
+        "contributions": 3,
+        "days_in_range": 6,
         "partial": true
       }
     ],
     "calendar": {
-      "totalContributions": 2122,
+      "totalContributions": 2137,
       "weeks": [
         {
           "firstDay": "2025-11-16",
@@ -1971,7 +1971,7 @@
             },
             {
               "date": "2026-11-07",
-              "contributionCount": 0
+              "contributionCount": 9
             }
           ]
         },
@@ -1980,7 +1980,7 @@
           "contributionDays": [
             {
               "date": "2026-11-08",
-              "contributionCount": 0
+              "contributionCount": 2
             },
             {
               "date": "2026-11-09",
@@ -1988,7 +1988,7 @@
             },
             {
               "date": "2026-11-10",
-              "contributionCount": 0
+              "contributionCount": 1
             },
             {
               "date": "2026-11-11",
@@ -2030,6 +2030,10 @@
             {
               "date": "2026-11-19",
               "contributionCount": 0
+            },
+            {
+              "date": "2026-11-20",
+              "contributionCount": 3
             }
           ]
         }
@@ -3727,6 +3731,47 @@
           "name": "HTML",
           "color": "#e34c26",
           "bytes": 985
+        }
+      ]
+    },
+    {
+      "name": "coven-kiroween",
+      "full_name": "a252937166/coven-kiroween",
+      "url": "https://github.com/a252937166/coven-kiroween",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 643631,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 405259
+        },
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "bytes": 145821
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 73764
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "bytes": 12029
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 6043
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 715
         }
       ]
     }
