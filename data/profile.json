@@ -1,134 +1,140 @@
 {
-  "fetched_at": "2026-11-26T17:07:16Z",
-  "fetch_started_at": "2026-11-26T17:07:12Z",
+  "fetched_at": "2026-11-27T16:50:59Z",
+  "fetch_started_at": "2026-11-27T16:50:52Z",
   "profile": {
     "login": "a252937166",
     "name": "Mr.ooo",
     "html_url": "https://github.com/a252937166",
     "avatar_url": "https://avatars.githubusercontent.com/u/16303294?v=4",
-    "public_repos": 113,
+    "public_repos": 114,
     "followers": 68,
     "following": 15,
     "created_at": "2015-12-15T09:47:58Z",
     "updated_at": "2026-11-18T02:19:11Z"
   },
   "metrics": {
-    "public_repositories": 113,
-    "owned_public_nonfork_repositories": 71,
+    "public_repositories": 114,
+    "owned_public_nonfork_repositories": 72,
     "archived_in_scope": 0,
     "received_stars": 102,
     "received_forks": 70,
     "followers": 68,
-    "public_contributions_last_year": 2137,
-    "language_bytes": 53740561
+    "public_contributions_last_year": 2139,
+    "language_bytes": 54548928
   },
   "languages": [
     {
       "name": "Python",
       "bytes": 22328554,
-      "percent": 41.5488,
+      "percent": 40.9331,
       "color": "#3572A5"
     },
     {
       "name": "TypeScript",
-      "bytes": 10418658,
-      "percent": 19.387,
+      "bytes": 10994977,
+      "percent": 20.1562,
       "color": "#3178c6"
     },
     {
       "name": "Java",
       "bytes": 6809981,
-      "percent": 12.672,
+      "percent": 12.4842,
       "color": "#b07219"
     },
     {
       "name": "JavaScript",
-      "bytes": 4855474,
-      "percent": 9.035,
+      "bytes": 4858728,
+      "percent": 8.9071,
       "color": "#f1e05a"
     },
     {
       "name": "HTML",
-      "bytes": 3869715,
-      "percent": 7.2007,
+      "bytes": 3877607,
+      "percent": 7.1085,
       "color": "#e34c26"
     },
     {
       "name": "CSS",
-      "bytes": 2582745,
-      "percent": 4.806,
+      "bytes": 2692803,
+      "percent": 4.9365,
       "color": "#663399"
     },
     {
       "name": "Solidity",
-      "bytes": 1071112,
-      "percent": 1.9931,
+      "bytes": 1169979,
+      "percent": 2.1448,
       "color": "#AA6746"
     },
     {
       "name": "Vue",
       "bytes": 1053870,
-      "percent": 1.961,
+      "percent": 1.932,
       "color": "#41b883"
     },
     {
       "name": "Shell",
-      "bytes": 351957,
-      "percent": 0.6549,
+      "bytes": 354631,
+      "percent": 0.6501,
       "color": "#89e051"
     },
     {
       "name": "PLSQL",
       "bytes": 290261,
-      "percent": 0.5401,
+      "percent": 0.5321,
       "color": "#dad8d8"
     },
     {
       "name": "Rust",
       "bytes": 50468,
-      "percent": 0.0939,
+      "percent": 0.0925,
       "color": "#dea584"
     },
     {
       "name": "PHP",
       "bytes": 16303,
-      "percent": 0.0303,
+      "percent": 0.0299,
       "color": "#4F5D95"
     },
     {
       "name": "COBOL",
       "bytes": 14342,
-      "percent": 0.0267,
+      "percent": 0.0263,
       "color": null
     },
     {
       "name": "PostScript",
       "bytes": 12552,
-      "percent": 0.0234,
+      "percent": 0.023,
       "color": "#da291c"
     },
     {
       "name": "Makefile",
-      "bytes": 6552,
-      "percent": 0.0122,
+      "bytes": 9870,
+      "percent": 0.0181,
       "color": "#427819"
+    },
+    {
+      "name": "Go",
+      "bytes": 5985,
+      "percent": 0.011,
+      "color": "#00ADD8"
     },
     {
       "name": "Dockerfile",
       "bytes": 2777,
-      "percent": 0.0052,
+      "percent": 0.0051,
       "color": "#384d54"
     },
     {
       "name": "Kotlin",
       "bytes": 1371,
-      "percent": 0.0026,
+      "percent": 0.0025,
       "color": "#A97BFF"
     },
     {
       "name": "PLpgSQL",
       "bytes": 890,
-      "percent": 0.0017,
+      "percent": 0.0016,
       "color": "#336790"
     },
     {
@@ -146,7 +152,7 @@
     {
       "name": "FreeMarker",
       "bytes": 782,
-      "percent": 0.0015,
+      "percent": 0.0014,
       "color": "#0050b2"
     },
     {
@@ -158,7 +164,7 @@
   ],
   "activity": {
     "started_at": "2025-11-23T00:00:00Z",
-    "ended_at": "2026-11-26T23:59:59Z",
+    "ended_at": "2026-11-27T23:59:59Z",
     "public_only_verified": true,
     "restricted_contributions": 0,
     "privacy_counts": {
@@ -169,11 +175,11 @@
       "private_repositoryContributions": 0
     },
     "contribution_types": {
-      "totalCommitContributions": 2062,
+      "totalCommitContributions": 2063,
       "totalIssueContributions": 17,
       "totalPullRequestContributions": 22,
       "totalPullRequestReviewContributions": 3,
-      "totalRepositoryContributions": 33
+      "totalRepositoryContributions": 34
     },
     "weekly_last_16": [
       {
@@ -284,13 +290,13 @@
       {
         "week_start": "2026-11-22",
         "week_end": "2026-11-28",
-        "contributions": 0,
-        "days_in_range": 5,
+        "contributions": 2,
+        "days_in_range": 6,
         "partial": true
       }
     ],
     "calendar": {
-      "totalContributions": 2137,
+      "totalContributions": 2139,
       "weeks": [
         {
           "firstDay": "2025-11-23",
@@ -2030,6 +2036,10 @@
             {
               "date": "2026-11-26",
               "contributionCount": 0
+            },
+            {
+              "date": "2026-11-27",
+              "contributionCount": 2
             }
           ]
         }
@@ -3768,6 +3778,57 @@
           "name": "HTML",
           "color": "#e34c26",
           "bytes": 715
+        }
+      ]
+    },
+    {
+      "name": "signatory",
+      "full_name": "a252937166/signatory",
+      "url": "https://github.com/a252937166/signatory",
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "language_bytes": 808367,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 576319
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 110058
+        },
+        {
+          "name": "Solidity",
+          "color": "#AA6746",
+          "bytes": 98867
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 7892
+        },
+        {
+          "name": "Go",
+          "color": "#00ADD8",
+          "bytes": 5985
+        },
+        {
+          "name": "Makefile",
+          "color": "#427819",
+          "bytes": 3318
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 3254
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "bytes": 2674
         }
       ]
     }
